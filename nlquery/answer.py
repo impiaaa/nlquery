@@ -1,5 +1,5 @@
 from datetime import datetime
-from utils import conv_to_str
+from .utils import conv_to_str
 
 class Answer(object):
     """Answer object that holds query data"""
